@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -112,8 +118,18 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.25,
+        0.5,
+        3.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -319,7 +335,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -418,6 +434,18 @@
     [
       "dedaa3ad-d8aa-41e5-abd2-14e8ef8c6846",
       ""
+    ],
+    [
+      "2be29407-156f-4023-b306-cde88314ac18",
+      "Digital"
+    ],
+    [
+      "e0ca7956-94fb-410b-8704-37d3ade2a8e5",
+      "Power"
+    ],
+    [
+      "9a09cddf-051a-41d0-9457-59f6693ce1d0",
+      "Analog"
     ]
   ],
   "text_variables": {}
