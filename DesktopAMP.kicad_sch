@@ -1498,16 +1498,16 @@
       (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/db7039dd-88a5-4055-924f-d395ccbfb445"
-      (reference "C17") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C17") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/dfe19710-13c1-4135-997a-fe00458b430a"
-      (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/507c50a9-71b0-4bda-8193-319a78649182"
-      (reference "C19") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C19") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/7ca8a894-a05a-4888-8292-9a5c3fa803d5"
-      (reference "C20") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C20") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/93e01f84-0931-4aa3-8920-47c7098afc10"
       (reference "C21") (unit 1) (value "220uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
@@ -1695,11 +1695,11 @@
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/ac2fa5fe-7012-4712-9287-1fcfbf141c60"
       (reference "U3") (unit 1) (value "LM2592HV") (footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3")
     )
-    (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/3ffc92be-33be-49f5-93dc-95de9e40fc76"
-      (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/ad73c460-e27c-4557-bb61-5e8a7cbdd1f8"
+      (reference "U4") (unit 1) (value "NCP163ASN330T1G") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
-    (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/81206158-7508-4edf-bf38-4c471f1d7664"
-      (reference "U5") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/a2e341a2-d6f8-4acd-a6ed-41bf57230383"
+      (reference "U5") (unit 1) (value "NCP163ASN330T1G") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/99352ddf-922e-441c-82e7-0feea07adaf4"
       (reference "U6") (unit 1) (value "DMMT5401") (footprint "Package_TO_SOT_SMD:SOT-23-6")
