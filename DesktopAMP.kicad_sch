@@ -1542,8 +1542,8 @@
     (path "/9a09cddf-051a-41d0-9457-59f6693ce1d0/cbc3832c-0fb8-41a9-b9f4-05ae4ceab66c"
       (reference "C31") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
-    (path "/9a09cddf-051a-41d0-9457-59f6693ce1d0/93d013fd-f974-4df9-a06c-4dfd7386694e"
-      (reference "C32") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+    (path "/9a09cddf-051a-41d0-9457-59f6693ce1d0/bc6a6455-1c65-4d9e-9df1-2e6667c19a58"
+      (reference "C32") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9a09cddf-051a-41d0-9457-59f6693ce1d0/09ecfd81-fadc-4ea8-9276-ee34abd2629b"
       (reference "C33") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
@@ -1556,9 +1556,6 @@
     )
     (path "/e0ca7956-94fb-410b-8704-37d3ade2a8e5/3b9ebfcc-c5f8-4f11-8c68-9666178be1ef"
       (reference "D2") (unit 1) (value "SSC54-E3/9AT") (footprint "Diode_SMD:D_SMC")
-    )
-    (path "/9a09cddf-051a-41d0-9457-59f6693ce1d0/f723f472-74e5-4818-b14c-65c10bf45481"
-      (reference "D3") (unit 1) (value "ZF16V") (footprint "Diode_SMD:D_0805_2012Metric")
     )
     (path "/b9f3f397-8cd0-4c4e-b7ed-dc334550a099"
       (reference "J1") (unit 1) (value "Conn_02x20_Odd_Even") (footprint "Etnolit:RPi_Zero_2W_SMD")
